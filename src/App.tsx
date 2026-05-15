@@ -57,7 +57,7 @@ function App() {
         <div className="hero-content">
           <div className="badge">Former Palaflow · Founded by ex-Palantir team</div>
 
-          <h1>Value First</h1>
+          <h1>Value. First.</h1>
 
           <p className="subtitle">
             VF-Consultancy helps organizations turn complex business visions into
